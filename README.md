@@ -17,6 +17,9 @@
 
 * 🔭 I'm Currently Working as a Machine Learning Associate at [The Entrepreneurship Network](https://www.entrepreneurshipnetwork.net/), Internship.
 *  🤔 I’m looking for a Job
+*  🌱 Learned Python for Data Science, Data Analytics, Tableau , SQL
+*  🧰 Languages and Tools: Python, SQL, Tableau, Microsoft Excel, Machine Learning, NLP
+*  👀 Interested in Data Analytics, Data Science, Python, SQL, Tableau, MS-Excel.
 *  📫 How to reach me: datirashlesha97@gmail.com
 
 Find me around the web 🌎:
