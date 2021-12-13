@@ -20,7 +20,7 @@
 *  🌱 I’m currently learning Power-Bi
 *  🌱 Learned Python for Data Science, Data Analytics, Tableau , SQL
 *  🧰 Languages and Tools: Python, SQL, Tableau, Microsoft Excel, Machine Learning, NLP
-*  👀 Interested in Data Analytics, Data Science, Python, SQL, Tableau, MS-Excel.
+*  👀 Interested in Statistics,Machine Learning, Data Analytics, Data Science, Python, SQL, Tableau, MS-Excel.
 *  📫 How to reach me: datirashlesha97@gmail.com
 
 Find me around the web 🌎:
