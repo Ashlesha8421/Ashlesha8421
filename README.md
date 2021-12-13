@@ -17,6 +17,7 @@
 
 * 🔭 I'm Currently Working as a Machine Learning Associate at [The Entrepreneurship Network](https://www.entrepreneurshipnetwork.net/), Internship.
 *  🤔 I’m looking for a Job
+*  🌱 I’m currently learning Power-Bi
 *  🌱 Learned Python for Data Science, Data Analytics, Tableau , SQL
 *  🧰 Languages and Tools: Python, SQL, Tableau, Microsoft Excel, Machine Learning, NLP
 *  👀 Interested in Data Analytics, Data Science, Python, SQL, Tableau, MS-Excel.
@@ -24,3 +25,4 @@
 
 Find me around the web 🌎:
 * My [Linkdin](https://www.linkedin.com/feed/) Profile
+* My [YouTube](https://www.youtube.com/channel/UCdtJ0J3Gen2xcreBcxEXvJg) Channel
