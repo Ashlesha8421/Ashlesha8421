@@ -16,7 +16,8 @@
 
 
 * 🔭 I'm Currently Working as a Machine Learning Associate at [The Entrepreneurship Network](https://www.entrepreneurshipnetwork.net/), Internship. -->
-*  🤔 I’m looking for a Job
+*  🤔 I’m looking for a Job 
+*  🌱 Aspiring data scientist with knowledge of machine learning, NLP,SQL, Python, Excel, and Tableau. Along with that, I am hardworking as well as a quick learner. I just    completed the course on data science from EXCELR institute of Pune and I have 6 months of experiences at Data Science and Business Analytics Internship at INNODATATICS.
 *  🌱 I’m currently learning Power-Bi
 *  🌱 Learned Python for Data Science, Data Analytics, Tableau , SQL
 *  🧰 Languages and Tools: Python, SQL, Tableau, Microsoft Excel, Machine Learning, NLP
