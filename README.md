@@ -21,7 +21,6 @@
 *  🤔 I’m looking for a Job 
 *  🌱 Aspiring data scientist with knowledge of machine learning, NLP,SQL, Python, Excel, and Tableau. Along with that, I am hardworking as well as a quick learner. I just    completed the course on data science from EXCELR institute of Pune and I have 6 months of experiences at Data Science and Business Analytics Internship at INNODATATICS.
 *  🌱 I’m currently learning Power-Bi
-*  🌱 Learned Python for Data Science, Data Analytics, Tableau , SQL
 *  👀 Interested in Statistics,Machine Learning, Data Analytics, Data Science, Python, SQL, Tableau, MS-Excel.
 *  📫 How to reach me: datirashlesha97@gmail.com
 
@@ -31,5 +30,6 @@ Find me around the web 🌎:
 * My [HackerRank](https://www.hackerrank.com/dashboard) for Python and SQL
 
 <h3 align="left">Languages and Tools:</h3>
-<p href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+<img align = left height = 40 width = 40 src = https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png> <img align = left height = 40 width = 40 src = https://i.pinimg.com/originals/86/35/88/863588a71e465cc3aa5d822c0feafea9.png> <img align = left height = 40 width = 40 src = https://www.kindpng.com/picc/m/133-1335602_excel-logo-transparent-background-hd-png-download.png>   </a> </p>
 
