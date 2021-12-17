@@ -4,7 +4,7 @@
 <!--
 **Ashlesha8421/Ashlesha8421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+- * My [HackerRank](https://www.hackerrank.com/dashboard) for Python and SQL
 - 🔭 🔭 I'm Currently Working as a Machine Learning Associate at TEN
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...👋 👋🏾 👩🏾‍💻
@@ -27,7 +27,7 @@
 Find me around the web 🌎:
 * My [Linkdin](https://www.linkedin.com/feed/) Profile
 * My [YouTube](https://www.youtube.com/channel/UCdtJ0J3Gen2xcreBcxEXvJg) Channel
-* My [HackerRank](https://www.hackerrank.com/dashboard) for Python and SQL
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
