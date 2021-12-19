@@ -26,7 +26,7 @@
 Find me around the web 🌎:
 * My [<img height = 25 width = 25 src = https://cdn-icons-png.flaticon.com/512/174/174857.png>](https://www.linkedin.com/feed/) Profile
 * My [<img height = 25 width = 25 src = https://user-images.githubusercontent.com/75266852/133133918-b95ee747-5255-4acc-ab42-8f9e5ccf2bb6.png>](https://www.youtube.com/channel/UCdtJ0J3Gen2xcreBcxEXvJg) Channel
-* My [<img height = 40 width = 40 src = https://i.pinimg.com/originals/86/35/88/863588a71e465cc3aa5d822c0feafea9.png>](public.tableau.com/app/profile/ashlesha.datir5591) Vizz 
+* My [<img height = 40 width = 40 src = https://i.pinimg.com/originals/86/35/88/863588a71e465cc3aa5d822c0feafea9.png>](https://public.tableau.com/app/profile/ashlesha.datir5591) Vizz 
 
 
 <h3 align="left">Languages and Tools:</h3>
