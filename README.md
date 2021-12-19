@@ -24,8 +24,8 @@
 *  📫 How to reach me: datirashlesha97@gmail.com
 
 Find me around the web 🌎:
-* My [Linkdin](https://www.linkedin.com/feed/) Profile
-* My [YouTube](https://www.youtube.com/channel/UCdtJ0J3Gen2xcreBcxEXvJg) Channel
+* My [<img height = 25 width = 25 src = https://cdn-icons-png.flaticon.com/512/174/174857.png>](https://www.linkedin.com/feed/) Profile
+* My [<img height = 25 width = 25 src = https://user-images.githubusercontent.com/75266852/133133918-b95ee747-5255-4acc-ab42-8f9e5ccf2bb6.png>](https://www.youtube.com/channel/UCdtJ0J3Gen2xcreBcxEXvJg) Channel
 
 
 <h3 align="left">Languages and Tools:</h3>
