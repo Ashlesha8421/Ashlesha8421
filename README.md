@@ -19,6 +19,7 @@
 
 
 * 🔭 I'm Currently Working as a Machine Learning Associate at [The Entrepreneurship Network](https://www.entrepreneurshipnetwork.net/), Internship. -->
+
 *  🤔 I’m looking for a Job 
 *  👀 Interested in Statistics,Machine Learning, Data Analytics, Data Science, Python, SQL, Tableau, MS-Excel.
 *  🤝🏻 I'm open for collaborations in Data Science and Machine Learning domains.
@@ -34,4 +35,16 @@ Find me around the web 🌎:
 <h3 align="left">Languages and Tools:</h3>
 <p href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 <img align = left height = 40 width = 40 src = https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png> <img align = left height = 40 width = 40 src = https://i.pinimg.com/originals/86/35/88/863588a71e465cc3aa5d822c0feafea9.png> <img align = left height = 40 width = 40 src = https://www.kindpng.com/picc/m/133-1335602_excel-logo-transparent-background-hd-png-download.png>   </a> </p>
+
+<br>
+
+<p align='center' ><img height='200' align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=Ashlesha8421&" alt="Ashlesha8421" /></p>
+
+<p align='center' ><img height='300' align='center' src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashlesha8421&show_icons=true&locale=en&langs_count=6" alt="Ashlesha8421" /></p>
+
+
+
+<div align='left'>
+
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
