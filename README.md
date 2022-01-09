@@ -2,43 +2,38 @@
 <h3 align="center">Passionate about learning new skills !</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashlesha8421&label=Profile%20views&color=0e75b6&style=flat" alt="Ashlesha8421" /> </p>
 
-<!--
-**Ashlesha8421/Ashlesha8421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- * My [HackerRank](https://www.hackerrank.com/dashboard) for Python and SQL
-- 🔭 🔭 I'm Currently Working as a Machine Learning Associate at TEN
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...👋 👋🏾 👩🏾‍💻
-*  🌱 Aspiring data scientist with knowledge of machine learning, NLP,SQL, Python, Excel, and Tableau. Along with that, I am hard-working as well as a quick learner. I just did a data science and Business analytics course from EXCELR institute & I'm Carrying 6 months of experience as Data Science and Business Analytics Intern at INNODATATICS Internship.
-- 🤔 I’m looking for a Job
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--   🧰 Languages and Tools: Python, SQL, Tableau, Microsoft Excel, Machine Learning, NLP
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... ![image](https://user-images.githubusercontent.com/79134243/143290505-1ef56d15-16cd-4216-ab06-0b1a0334ba02.png)
-
-
-
-* 🔭 I'm Currently Working as a Machine Learning Associate at [The Entrepreneurship Network](https://www.entrepreneurshipnetwork.net/), Internship. -->
 
 *  🤔 I’m looking for a Job 
 *  👀 Interested in Statistics,Machine Learning, Data Analytics, Data Science, Python, SQL, Tableau, MS-Excel.
 *  🤝🏻 I'm open for collaborations in Data Science and Machine Learning domains.
 * 📌 Scroll down to see my Pinned Repositories.
-*  📫 How to reach me: datirashlesha97@gmail.com
-
-Find me around the web 🌎:
-* My [<img height = 25 width = 25 src = https://cdn-icons-png.flaticon.com/512/174/174857.png>](https://www.linkedin.com/feed/) Profile
-* My [<img height = 25 width = 25 src = https://user-images.githubusercontent.com/75266852/133133918-b95ee747-5255-4acc-ab42-8f9e5ccf2bb6.png>](https://www.youtube.com/channel/UCdtJ0J3Gen2xcreBcxEXvJg) Channel
-* My [<img height = 40 width = 40 src = https://i.pinimg.com/originals/86/35/88/863588a71e465cc3aa5d822c0feafea9.png>](https://public.tableau.com/app/profile/ashlesha.datir5591) Vizz 
 
 
+### 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+[![Tableau Public](https://img.shields.io/badge/Tableau_Public-%232C2D72.svg?style=for-the-badge&logo=Tableau&&logoColor=white)](https://public.tableau.com/app/profile/ashlesha.datir5591) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/datir_ashlesha?t=Tb9XcqkhEhSC1d-Y0AbeuA&s=08)
+[![Youtube](https://img.shields.io/badge/youtube-%2314354C.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCdtJ0J3Gen2xcreBcxEXvJg)
+![Gmail](https://img.shields.io/badge/datirashlesha97@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-<img align = left height = 40 width = 40 src = https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png> <img align = left height = 40 width = 40 src = https://i.pinimg.com/originals/86/35/88/863588a71e465cc3aa5d822c0feafea9.png> <img align = left height = 40 width = 40 src = https://www.kindpng.com/picc/m/133-1335602_excel-logo-transparent-background-hd-png-download.png>   </a> </p>
+### 🤖 My Skills
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+![SQL](https://img.shields.io/badge/SQL-217346?style=for-the-badge&logo=microsoft-sql&logoColor=white) 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) 
 
-<br>
+### 📊 My Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ashlesha8421&repo=Incident-Impact-Prediction-Project-)](https://github.com/Ashlesha8421/Incident-Impact-Prediction-Project-)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ashlesha8421&repo=Chatbot)](https://github.com/Ashlesha8421/Chatbot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ashlesha8421&repo=The_Spark_Foundation_Project)](https://github.com/Ashlesha8421/The_Spark_Foundation_Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ashlesha8421&repo=SQL)](https://github.com/Ashlesha8421/SQL)
+
+
 
 <p align='center' ><img height='200' align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=Ashlesha8421&" alt="Ashlesha8421" /></p>
 
