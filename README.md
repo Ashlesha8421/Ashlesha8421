@@ -36,11 +36,11 @@
 
 <p align='center' ><img height='200' align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=Ashlesha8421&" alt="Ashlesha8421" /></p>
 
-<!--<p align='center' ><img height='300' align='center' src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashlesha8421&show_icons=true&locale=en&langs_count=6" alt="Ashlesha8421" /></p>
+<p align='center' ><img height='300' align='center' src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashlesha8421&show_icons=true&locale=en&langs_count=6" alt="Ashlesha8421" /></p>
 
 
 
 <!--<div align='left'>
 
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) -->
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
