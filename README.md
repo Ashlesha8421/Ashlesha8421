@@ -4,9 +4,9 @@
 
 
 
-*  🤔 I’m looking for a Job 
+* 👩‍💻  I’m currently working as a data analyst in eClerx Company.
 *  👀 Interested in Statistics,Machine Learning, Data Analytics, Data Science, Python, SQL, Tableau, MS-Excel.
-*  🤝🏻 I'm open for collaborations in Data Science and Machine Learning domains.
+*  🤝🏻 I’m looking to collaborate on Data Science and Machine Learning Work.
 * 📌 Scroll down to see my Pinned Repositories.
 
 
@@ -40,7 +40,7 @@
 
 
 
-<!--<div align='left'>
+<!--<div align='left'> I'm open for collaborations in Data Science and Machine Learning domains. 
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
