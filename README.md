@@ -4,7 +4,7 @@
 
 
 
-* 👩‍💻  I’m currently working as a data analyst in eClerx Services Limited.
+* 👩‍💻  I’m currently working as a  Sr.data analyst in Ideas A SAS Company.
 *  👀 Interested in Statistics,Machine Learning, Data Analytics, Data Science, Python, SQL, Tableau, MS-Excel.
 *  🤝🏻 I’m looking to collaborate on Data Science and Machine Learning Work.
 * 📌 Scroll down to see my Pinned Repositories.
